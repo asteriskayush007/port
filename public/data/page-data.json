@@ -1,0 +1,102 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "guptaditi1810@gmail.com",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:guptaditi1810@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+918173017649",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+918173017649"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://www.linkedin.com/in/guptaaditi18?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "Jaypee University of Engineering and Technology, BTech in Computer Science",
+        "description": "Aug. 2022 – May 2026"
+      },
+      {
+        "title": "The Aryans School, 12th",
+        "description": "March 2021 – May 2022 ,PERCENTAGE: 75"
+      },
+      {
+        "title": "St. Francis Convent Inter College, 10th",
+        "description": "March 2019 – May 2020, PERCENTAGE: 78.8"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJxI-CPJeMM6OzwxHe2ZzIHg2qX1P-JTMRFw&s",
+        
+        "rating": 5
+      },
+      {
+        "name": "HTML5",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTkVF9JFCfpv_nk6Zu6nfY5mF1BRiZF1VEYA&s",
+        "rating": 5
+      },
+      {
+        "name": "MYSQL",
+        "icon": "https://img.icons8.com/fluent/1200/sql.jpg",
+        "rating": 4
+      },
+      {
+        "name": "Python",
+        "icon": "https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png",
+        "rating": 4
+      },
+      {
+        "name": "JavaScript",
+        "icon": "https://static.vecteezy.com/system/resources/previews/012/697/298/non_2x/3d-javascript-logo-design-free-png.png",
+        "rating": 5
+      },
+      {
+        "name": "GitHub",
+        "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+        "rating": 3
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "Dribble",
+        "href": "/"
+      },
+      {
+        "title": "Facebook",
+        "href": "/"
+      },
+      {
+        "title": "LinkedIn",
+        "href": "/"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "guptaditi1810@gmail.com",
+        "link": "mailto:guptaditi1810@gmail.com"
+      },
+      {
+        "type": "phone",
+        "label": "+918173017649",
+        "link": "tel:+918173017649"
+      }
+    ]
+  }
+}
